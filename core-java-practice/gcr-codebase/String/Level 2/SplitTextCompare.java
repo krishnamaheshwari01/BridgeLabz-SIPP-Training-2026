@@ -1,0 +1,2 @@
+public class SplitTextCompare {
+}
